@@ -1,1 +1,5 @@
-안녕하세요~!!!
+hello~
+
+my name is Min Seop Hyun
+
+nice to meet you
